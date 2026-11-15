@@ -8,6 +8,10 @@
 
 > **Educational simulation only.** No live AI agents, bank accounts, sanctions datasets, customer records, credentials, APIs or external tool calls are involved. All 672 events are deterministic fictional **proposed actions**. The app's ALLOW, BLOCK, HOLD and SUSPEND outcomes have **no effect on any actual system**. Do not use this project as a security control, compliance system or incident management service.
 
+## 🚀 Launch Interactive Rogue Agent Sentinel Dashboard
+
+**[Click Here to Explore the Live Streamlit Application](https://rogue-agent-sentinel-lab-xgzbimdklfmhh2ipv6depj.streamlit.app/)**
+
 **Project author:** Adiputera Saadon  
 **Development transparency:** This portfolio prototype was produced with AI assistance in code generation, testing, documentation and layout. Independent code review, adversarial validation and operational security assessment have not been performed. Reproduce and critically examine the results before presenting them as personal engineering work.
 
@@ -74,7 +78,7 @@ python -m pytest -q
 2. Upload the **contents** of this extracted folder, keeping `app.py`, `requirements.txt`, `src/`, `data/`, `artifacts/`, `docs/`, `scripts/`, `tests/` and `.streamlit/` in their relative locations.
 3. At [Streamlit Community Cloud](https://share.streamlit.io/), choose **Deploy a public app from GitHub**, select branch `main` and application file `app.py`.
 4. Choose Python **3.12** if offered and deploy. No Secrets or API keys are required.
-5. Test every tab with `docs/FUNCTIONAL_TEST_CHECKLIST.md`. Test the public URL in a separate browser profile, then add the live Streamlit URL to the top of this README and the repository's **About → Website** field.
+5. Test all six dashboard tabs using `docs/FUNCTIONAL_TEST_CHECKLIST.md` and verify public accessibility in a separate browser profile. The live Streamlit application is linked near the top of this README. Add the same URL to the repository's **About → Website** field.
 
 ## Project files
 
