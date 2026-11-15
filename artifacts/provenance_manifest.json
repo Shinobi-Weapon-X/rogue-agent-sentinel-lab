@@ -1,0 +1,12 @@
+{
+  "title": "Fictional agent telemetry provenance",
+  "generated_seed": 20261115,
+  "dataset_character": "DETERMINISTIC FICTIONAL ACTION PROPOSALS; NO AGENTS OR CONNECTED BANKING TOOLS",
+  "threshold_source": "95th percentile of benign validation anomalies; no holdout tuning",
+  "policy_source": "src/policy.py \u2014 independent pre-execution action gate",
+  "persistent_log": "NONE; local session export only",
+  "files_sha256": {
+    "data/fictional_agent_events.csv": "a40395cd5aa179c990503b94116143221366ca3e6150f1425b674051933811f5",
+    "artifacts/evaluation_metrics.json": "76256cbc8a1c975c1af4d055e2055bebb7280e576c67ad1670c3a2c0a53d5792"
+  }
+}

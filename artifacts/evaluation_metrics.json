@@ -1,0 +1,27 @@
+{
+  "total_events": 672,
+  "episodes": 84,
+  "train_events": 400,
+  "validation_events": 128,
+  "test_events": 144,
+  "test_scripted_unsafe": 8,
+  "anomaly_threshold": 0.5309,
+  "policy": {
+    "tp": 8,
+    "fp": 0,
+    "fn": 0,
+    "tn": 136,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "anomaly": {
+    "tp": 2,
+    "fp": 16,
+    "fn": 6,
+    "tn": 120,
+    "precision": 0.1111,
+    "recall": 0.25,
+    "f1": 0.1538
+  }
+}
